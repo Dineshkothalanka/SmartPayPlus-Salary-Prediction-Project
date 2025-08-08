@@ -52,4 +52,4 @@ pip install pandas numpy scikit-learn matplotlib seaborn joblib xgboost shap
 ---
 Created for educational purposes. For questions, contact the project author.
 Email: dineshkothalanka2003@gmail.com
-LimkedIn:https://www.linkedin.com/in/dinesh-kothalanka-96362424b
+LinkedIn:https://www.linkedin.com/in/dinesh-kothalanka-96362424b
